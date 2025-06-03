@@ -9,6 +9,8 @@ Travail de groupe à faire à deux.
 
 ## Sommaire
 
+⚠Je suis actuellement en train de demander le droit de publication des PDF de professeurs. Donc certains fichiers ne sont pas enregistrés à l'aide de .gitignore⚠
+
 ### SAE_S1_03/SAE_S1_03_Part1/
 - guideline-sae-03-1.pdf : pdf prof
 - sae.s1.03.Part1-1.pdf : pdf prof
