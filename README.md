@@ -3,8 +3,8 @@
 ## Description du projet
 Ce projet consisté à configuré un poste informatique en dual boot (Archlinux et Windows7).
 
-Dans ce dépôt, des PDF explicatives de mon projet réalisé sont disponibles.
-Vous avez également un Sommaire dans ce fichier README.md
+Dans ce dépôt, des PDF explicatifs de mon projet réalisé sont disponibles.
+Vous avez également un sommaire dans ce fichier README.md.
 
 Travail de groupe à faire à deux.
 
