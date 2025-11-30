@@ -1,30 +1,32 @@
 # SAE_S1_03
 
 ## Description du projet
-Installation (en dual-boat : Archlinux et Windows7) d'un poste de travail avec l’environnement et les applications nécessaires aux besoins exprimés par un client.
+Installation en **dual-boot** (Archlinux et Windows 7) d'un poste de travail avec l'environnement et les applications nécessaires, afin de répondre aux besoins exprimés par un client.
 
-Dans ce dépôt, vous pourrez retrouver des PDF que j'ai fait, expliquant mon projet réalisé.
-Vous avez également un sommaire dans ce fichier README.md.
+Le dépôt contient également des PDF explicatif du projet réalisé.
 
-Travail de groupe à faire à deux.
+Travail de groupe réalisé à deux.
 
 ## Outil utilisé
 - Machine virtuelle (attribuée sur le serveur Proxmox)
 
 ## Sommaire
-### SAE_S1_03/SAE_S1_03_Part1/
+
+Ce dépôt regroupe plusieurs parties de la documentation du projet :
+
+### **Partie 1 (Semestre 1) :**
 - vallejos-notice-sae-s1-03-part1.pdf
 
-### SAE_S1_03/SAE_S1_03_Part2/
+### **Partie 2 (Semestre 1) :**
 - vallejos-notice-sae-s1-03-part2.pdf
 
-### SAE_S1_03/SAE_S2_03_Part1/
+### **Partie 1 (Semestre 2) :**
 - vallejos-notice-sae-s2-03-part1.pdf
 
-### SAE_S1_03/SAE_S2_03_Part2/
+### **Partie 2 (Semestre 2) :**
 - vallejos-notice-sae-s2-03-part2.pdf
 - vallejos-vallejos-info-supplémentaire.pdf
 
-### SAE_S1_03/SAE_S2_03_Part3/
+### **Partie 3 (Semestre 2) :**
 - sae.s2.03.Part3.pdf
 - vallejos-info.pdf
