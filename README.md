@@ -3,7 +3,7 @@
 ## Description du projet
 Installation en **dual-boot** (Archlinux et Windows 7) d'un poste de travail avec l'environnement et les applications nécessaires, afin de répondre aux besoins exprimés par un client.
 
-Le dépôt contient également des PDF explicatif du projet réalisé.
+Le dépôt contient également des PDF explicatifs du projet réalisé.
 
 Travail de groupe réalisé à deux.
 
